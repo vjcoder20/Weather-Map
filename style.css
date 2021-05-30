@@ -37,7 +37,7 @@ input[type="submit"]{
 }
 
 .card{
-  width: 600px;
+  width: 80%;
   background: #e7e7e7;
   height: 30vh;
   margin: 50px auto;
