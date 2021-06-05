@@ -6,7 +6,7 @@
 
 body{
   font-family: "Nunito",sans-serif;
-  background-color: skyblue;
+  background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
 }
 
 .input{
@@ -65,4 +65,5 @@ input[type="submit"]{
 .marge{
   text-align: center;
   margin-top: 30px;
+  color:yellowgreen;
 }
